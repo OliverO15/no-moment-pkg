@@ -2,5 +2,6 @@
 coverageReporter = ["lcov"]
 
 [publish]
-registry = "https://npm.pkg.github.com"
+registry = "https://registry.npmjs.org"
+
 
