@@ -1,0 +1,6 @@
+[test]
+coverageReporter = ["lcov"]
+
+[publish]
+registry = "https://npm.pkg.github.com"
+
